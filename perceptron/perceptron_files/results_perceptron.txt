@@ -1,0 +1,266 @@
+Run with:
+python3 perceptrondataClassifier.py
+
+DIGITS
+
+10%:
+Faces or digits dataset?: digits
+Training data #: 500
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  11.296254873275757
+Testing...
+Results:  748 correct out of 1000 (74.8%).
+
+20%:
+Faces or digits dataset?: digits
+Training data #: 1000
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  18.532106637954712
+Testing...
+Results:  747 correct out of 1000 (74.7%).
+
+30%:
+Faces or digits dataset?: digits
+Training data #: 1500
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  29.642319679260254
+Testing...
+Results:  763 correct out of 1000 (76.3%).
+
+40%:
+Faces or digits dataset?: digits
+Training data #: 2000
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  45.32252287864685
+Testing...
+Results:  768 correct out of 1000 (76.8%).
+
+50%:
+Faces or digits dataset?: digits
+Training data #: 2500
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  56.65062713623047
+Testing...
+Results:  788 correct out of 1000 (78.8%).
+
+60%:
+Faces or digits dataset?: digits
+Training data #: 3000
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  67.19067406654358
+Testing...
+Results:  766 correct out of 1000 (76.6%).
+
+70%:
+Faces or digits dataset?: digits
+Training data #: 3500
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  80.40201592445374
+Testing...
+Results:  755 correct out of 1000 (75.5%).
+
+80%:
+Faces or digits dataset?: digits
+Training data #: 4000
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  90.08413410186768
+Testing...
+Results:  803 correct out of 1000 (80.3%).
+
+90%:
+Faces or digits dataset?: digits
+Training data #: 4500
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  100.85155034065247
+Testing...
+Results:  789 correct out of 1000 (78.9%).
+
+100%:
+Faces or digits dataset?: digits
+Training data #: 5000
+Testing data #: 1000
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  109.45941162109375
+Testing...
+Results:  830 correct out of 1000 (83.0%).
+
+FACES
+
+10%:
+Faces or digits dataset?: faces
+Training data #: 45
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  1.3031597137451172
+Testing...
+Results:  116 correct out of 150 (77.3%).
+
+20%:
+Faces or digits dataset?: faces
+Training data #: 90
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  2.60724139213562
+Testing...
+Results:  121 correct out of 150 (80.7%).
+
+30%:
+Faces or digits dataset?: faces
+Training data #: 135
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  3.4534308910369873
+Testing...
+Results:  128 correct out of 150 (85.3%).
+
+40%:
+Faces or digits dataset?: faces
+Training data #: 180
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  4.986476182937622
+Testing...
+Results:  123 correct out of 150 (82.0%).
+
+50%:
+Faces or digits dataset?: faces
+Training data #: 225
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  6.112802982330322
+Testing...
+Results:  127 correct out of 150 (84.7%).
+
+60%:
+Faces or digits dataset?: faces
+Training data #: 270
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  7.441924333572388
+Testing...
+Results:  124 correct out of 150 (82.7%).
+
+70%:
+Faces or digits dataset?: faces
+Training data #: 315
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  8.4503915309906
+Testing...
+Results:  130 correct out of 150 (86.7%).
+
+80%:
+Faces or digits dataset?: faces
+Training data #: 360
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  9.792160272598267
+Testing...
+Results:  128 correct out of 150 (85.3%).
+
+90%:
+Faces or digits dataset?: faces
+Training data #: 405
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  10.874639749526978
+Testing...
+Results:  126 correct out of 150 (84.0%).
+
+100%:
+Faces or digits dataset?: faces
+Training data #: 451
+Testing data #: 150
+Extracting features...
+Training...
+Starting iteration  0
+Starting iteration  1
+Starting iteration  2
+Training time:  12.055437564849854
+Testing...
+Results:  131 correct out of 150 (87.3%).

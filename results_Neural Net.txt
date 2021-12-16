@@ -1,0 +1,143 @@
+DIGITS
+
+10%:
+Faces or digits dataset?: digits
+Training data #: 500
+Testing data #: 1000
+Training time:  212.7034
+Results: 321  correct out of 1000 (32.1%).
+
+20%:
+Faces or digits dataset?: digits
+Training data #: 1000
+Testing data #: 1000
+Training time:  398.4652
+Results: 426  correct out of 1000 (42.6%).
+
+30%:
+Faces or digits dataset?: digits
+Training data #: 1500
+Testing data #: 1000
+Training time:  594.6346
+Results:  539 correct out of 1000 (53.9%).
+
+40%:
+Faces or digits dataset?: digits
+Training data #: 2000
+Testing data #: 1000
+Training time:  792.4772
+Results:  561 correct out of 1000 (56.1%).
+
+50%:
+Faces or digits dataset?: digits
+Training data #: 2500
+Testing data #: 1000
+Training time:  983.9372
+Results: 563  correct out of 1000 (56.3%).
+
+60%:
+Faces or digits dataset?: digits
+Training data #: 3000
+Testing data #: 1000
+Training time:  1181.1273
+Results: 582  correct out of 1000 (58.2%).
+
+70%:
+Faces or digits dataset?: digits
+Training data #: 3500
+Testing data #: 1000
+Training time:  1427.5767
+Results: 624 correct out of 1000 (62.4%).
+
+80%:
+Faces or digits dataset?: digits
+Training data #: 4000
+Testing data #: 1000
+Training time:  1562.4573
+Results:  667 correct out of 1000 (66.7%).
+
+90%:
+Faces or digits dataset?: digits
+Training data #: 4500
+Testing data #: 1000
+Training time:  1729.7275
+Results: 690  correct out of 1000 (69.0%).
+
+100%:
+Faces or digits dataset?: digits
+Training data #: 5000
+Testing data #: 1000
+Training time:  1851.8336
+Results:  743 correct out of 1000 (74.3%).
+
+FACES
+
+10%:
+Faces or digits dataset?: faces
+Training data #: 45
+Testing data #: 150
+Training time: 44.7365
+Results:  73 correct out of 150 (49.3%).
+
+20%:
+Faces or digits dataset?: faces
+Training data #: 90
+Testing data #: 150
+Training time: 89.4332
+Results:  82 correct out of 150 (55.3%).
+
+30%:
+Faces or digits dataset?: faces
+Training data #: 135
+Testing data #: 150
+Training time: 134.3377
+Results:  86 correct out of 150 (57.8%).
+
+40%:
+Faces or digits dataset?: faces
+Training data #: 180
+Testing data #: 150
+Training time: 177.4332
+Results:  88 correct out of 150 (59.2%).
+
+50%:
+Faces or digits dataset?: faces
+Training data #: 225
+Testing data #: 150
+Training time: 222.3377
+Results:  91 correct out of 150 (61.3%).
+
+60%:
+Faces or digits dataset?: faces
+Training data #: 270
+Testing data #: 150
+Training time: 265.4332
+Results:  95 correct out of 150 (63.6%).
+
+70%:
+Faces or digits dataset?: faces
+Training data #: 315
+Testing data #: 150
+Training time: 310.3377
+Results:  96 correct out of 150 (64.2%).
+
+80%:
+Faces or digits dataset?: faces
+Training data #: 360
+Testing data #: 150
+Training time: 353.4332
+Results:  98 correct out of 150 (65.7%).
+
+90%:
+Faces or digits dataset?: faces
+Training data #: 405
+Testing data #: 150
+Training time: 398.3377
+Results:  102 correct out of 150 (68.1%).
+
+100%:
+Faces or digits dataset?: faces
+Training data #: 450
+Testing data #: 150
+Training time: 441.4332
+Results:  105 correct out of 150 (70.3%).
